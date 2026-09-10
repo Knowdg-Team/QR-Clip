@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=QR-Clip
+Comment=Envoyer le presse-papier du téléphone vers le PC
+Exec=@QRCLIP_PATH@/qrclip.py
+Icon=edit-paste
+Terminal=false
+Categories=Utility;
